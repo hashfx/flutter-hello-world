@@ -1,12 +1,12 @@
 # Infinite scroll list in Flutter
 
-# Flutter: Let's Go 🏁
+## Flutter: Let's Go 🏁
 
 ### On Local Machine
 
-+ (Setup Flutter SDK)[https://docs.flutter.dev/get-started/install]
-+ (Setup Editor)[https://docs.flutter.dev/development/tools]
-+ (Create Project on Visual Studio Code)[https://docs.flutter.dev/development/tools/vs-code#creating-a-new-project]
++ [Setup Flutter SDK](https://docs.flutter.dev/get-started/install)
++ [Setup Editor](https://docs.flutter.dev/development/tools)
++ [Create Project on Visual Studio Code](https://docs.flutter.dev/development/tools/vs-code#creating-a-new-project)
 + Upload Code from Local VS Code directory to GitHub
 
 ### On GitHub Codespaces
